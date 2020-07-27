@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://bit.ly/surya-veer-logo" alt="drawing" width="1" height="1"/>
+<img src="https://bit.ly/surya-veer-logo" alt="drawing" width="1" height="1"/><br>
+
+<img src="https://bit.ly/surya-veer-visit-tracker" alt="drawing" width="1" height="1"/><br>
+
 <!--
 **surya-veer/surya-veer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
